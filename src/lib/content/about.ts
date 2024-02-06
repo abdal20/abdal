@@ -17,5 +17,5 @@ export const aboutSection: AboutSectionType = {
 
     ],
     },
-    img: '  /abdal.png',
+    img: '/abdal.png',
 };
